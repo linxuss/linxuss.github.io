@@ -1,0 +1,1 @@
+import{l as e,o as c,m as _,c as r}from"./entry.9395c4b8.js";const s={};function a(n,o){return c(),_("h1",null,"HelloWord")}const l=e(s,[["render",a]]),f={};function d(n,o){const t=l;return c(),r(t)}const u=e(f,[["render",d]]);export{u as default};
