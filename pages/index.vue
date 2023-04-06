@@ -1,5 +1,5 @@
 <template>
-  <hello-word />
+  <resume />
 </template>
   
 <script lang="ts" setup>
