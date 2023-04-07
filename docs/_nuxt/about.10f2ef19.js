@@ -1,0 +1,1 @@
+import{l as e,m as o,K as a,w as n,L as c,M as s,j as _,o as r,N as u}from"./entry.d37bb8e3.js";const l={},d=s("h1",null,"about",-1);function m(f,x){const t=_;return r(),o(c,null,[d,a(t,{to:"/about"},{default:n(()=>[u(" About ")]),_:1})],64)}const p=e(l,[["render",m]]);export{p as default};
